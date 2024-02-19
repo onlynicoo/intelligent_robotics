@@ -1,0 +1,6 @@
+# request definition
+bool detect
+---
+# response definition
+int32[] ids
+geometry_msgs/PoseArray poses

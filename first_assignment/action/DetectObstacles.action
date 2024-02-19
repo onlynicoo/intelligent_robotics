@@ -1,0 +1,11 @@
+# Goal definition
+float32 x_pos
+float32 y_pos
+float32 yaw
+--- 
+# Result definition
+float32[] x_obstacles
+float32[] y_obstacles
+--- 
+# Feedback definition
+string current_status

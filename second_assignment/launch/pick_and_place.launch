@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="first_assignment" type="DetectObstaclesServer" name="DetectObstaclesServer" output="screen"/>
+    <node pkg="second_assignment" type="nodeC" name="nodeC" output="screen"/>
+    <node pkg="second_assignment" type="nodeB" name="nodeB" output="screen"/>
+    <node pkg="tiago_iaslab_simulation" type="human_node" name="human_node" output="screen"/>
+</launch>

@@ -1,0 +1,12 @@
+# Goal definition
+bool pick
+int32 target_id
+int32[] ids
+geometry_msgs/PoseArray poses
+geometry_msgs/Pose place_pose
+---
+# Result definition
+bool succeded
+---
+# Feedback definition
+string current_status
