@@ -1,7 +1,5 @@
 GROUP 23
 
-Andrea Ghiotto, andrea.ghiotto.3@studenti.unipd.it
-
 Nicola Lorenzon, nicola.lorenzon.3@studenti.unipd.it
 
 Daniele Moschetta, daniele.moschetta@studenti.unipd.it
